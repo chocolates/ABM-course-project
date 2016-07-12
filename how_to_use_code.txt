@@ -1,0 +1,10 @@
+The "language_adoption2.py" is the source code for the experiments on ER network, Small world network, Scale Free network and network with community structures.
+usage:
+	(1) set A's prestige with "ALPHA" variable, in main() function
+	(2) choose network type in main() function. The details of each network could be further set in init_network_others() function.
+	(3) the "action" variable in main() function is used to show figure or animation
+
+The "language_adoption_regularLattice.py" is the source code for the experiment on regular lattice.
+usage:
+	(1) set parameters in __init__() function
+	(2) the "action" variable in main() function is used to show figure or animation
